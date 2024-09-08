@@ -1,0 +1,55 @@
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 35%;
+	!border: 3px solid #73AD21;
+	!padding: 10px;
+	font-family: Arial;
+	text-align: center;
+	color: black;
+}
+
+
+body {
+	background-color: pink;
+}
+
+.button {
+	border-radius: 100px;
+	background-color:white;
+	border: white;
+	padding: 15px 32px;
+	cursor: pointer;
+	transition-duration: 0.2s;
+}
+.button:hover {
+	border-radius: 100px;
+	!background-color:#ebebeb;
+	border: white;
+	padding: 15px 50px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+h1 {
+
+}
+
+p {
+
+}
+
+
+
+
+
+
+!audio::-webkit-media-controls {
+!        display: none;
+!    }
